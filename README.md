@@ -1,6 +1,6 @@
 # My-awesome-projects
 
-Here is a portfolio for my capstone projects for my Thinkful data science certification program
+Here is a portfolio for my current capstone projects for my Thinkful data science certification program:-
 
 - Supervised Capstone: Predicting Telecom Churn for IBM Watson Analytics Dataset - Built predictive models using Supervised Learning methods to predict customers most vulnerable to churn.
 
