@@ -7,9 +7,9 @@ Here is a portfolio of my current capstone projects for Thinkful data science ce
 	- Program/Library Used: Python, Jupyter Notebook, NumPy, Pandas, Scikit-Learn, Seaborn, Random Forest, Gradient Boosting, Support Vector Machines (SVM), Decsion Trees, K-Nearest neighbors (KNN), Logistic Regression
 
 
-Unsupervised Capstone: Clustering NJ Transit + Amtrak (NEC) Rail Performance Dataset - Carried out out Exploratory Data Analysis (EDA), applied clustering and dimensionality reduction techniques using Unsupervised Learning methods to visualize, group similar observations, and gain valuable insights from the data.The purpose is to better inform riders in advance of potential delays and cancellations using machine learning algorithms. 
+- Unsupervised Capstone: Clustering NJ Transit + Amtrak (NEC) Rail Performance Dataset - Carried out out Exploratory Data Analysis (EDA), applied clustering and dimensionality reduction techniques using Unsupervised Learning methods to visualize, group similar observations, and gain valuable insights from the data.The purpose is to better inform riders in advance of potential delays and cancellations using machine learning algorithms. 
 
-Program/Library Used: Python, Jupyter Notebook, NumPy, Pandas, Scikit-Learn, Seaborn, K-means clustering, DBSCAN clustering, Principal Component Analysis (PCA), t-distributed stochastic neighbor embedding (t-SNE) dimensionality reduction methods
+	- Program/Library Used: Python, Jupyter Notebook, NumPy, Pandas, Scikit-Learn, Seaborn, K-means clustering, DBSCAN clustering, Principal Component Analysis (PCA), t-distributed stochastic neighbor embedding (t-SNE) dimensionality reduction methods
 
 
 - Unsupervised Learning: Clustering Boston marathon data - Applied clustering and dimensionality reduction techniques using Unsupervised Learning methods to visualize, group similar observations, and gain valuable insights from Boston marathon data.
