@@ -15,3 +15,8 @@ Here is a portfolio of my current capstone projects for Thinkful data science ce
 - Unsupervised Learning: Clustering Boston marathon data - Applied clustering and dimensionality reduction techniques using Unsupervised Learning methods to visualize, group similar observations according to gender and age groups, and gain valuable insights from Boston marathon data.
 
 	- Program/Library Used: Python, Jupyter Notebook, NumPy, Pandas, Scikit-Learn, Seaborn, K-means clustering, GMM clustering, Principal Component Analysis (PCA), t-distributed stochastic neighbor embedding (t-SNE) dimensionality reduction methods
+
+
+- Time Series Analysis: US GDP data 1990-2020 - Went about the process of time series modeling to gain valuable insights from US GDP data.
+
+	- Program/Library Used: Python, Jupyter Notebook, NumPy, Pandas, SciPy, Scikit-Learn, ARIMA model, PACF function, etc.
