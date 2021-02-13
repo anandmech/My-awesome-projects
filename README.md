@@ -20,3 +20,7 @@ Here is a portfolio of my capstone projects for Thinkful data science certificat
 - Time Series Analysis: US GDP data 1990-2020 from FRED's website - Went about the process of time series modeling to visualize and gain valuable insights from US GDP data.
 
 	- Program/Library Used: Python, Jupyter Notebook, NumPy, Pandas, SciPy, Scikit-Learn, ARIMA model, PACF function, etc.
+	
+- Deep Learning: TalkingData-Mobile-User-Demographics - - Applying Supervised Learning, Deep Learning and Unsupervised Clustering techniques to build a model predicting users demographic characteristics based on their app usage, geolocation, & mobile device properties. To help stakeholders pursue data-driven marketing efforts relevant and catered to their users preferences.
+
+        - Program/Library Used: Python, Jupyter Notebook, NumPy, Pandas, Scikit-Learn, Seaborn, Random Forest, Gradient Boosting, Support Vector Machines (SVM), K-Nearest neighbors (KNN), Logistic Regression, K-means clustering, Principal Component Analysis (PCA), TensorFlow, Keras Libraries, etc. 
